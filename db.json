@@ -2,7 +2,6 @@
   {
     "id": 1,
     "name":"Lazar Prodanovic",
-    "email": "lazaplaza@gmail.com",
     "subject": "Laboratorijske vezbe",
     "content": "U kojoj ucionici imamo laboratorijske vezbe?"
   
@@ -10,7 +9,6 @@
   {
     "id": 2,
     "name":"Stefan Dacevic",
-    "email":"stefandacevic@gmail.com",
     "subject": "Rostilj",
     "content": "Organizujem rostilj kod mene na vikendici"
   
@@ -19,7 +17,6 @@
   
     "id": 3,
     "name":"Lazar Prodanovic",
-    "email": "lazaplaza@gmail.com",
     "subject": "Zurka kod mene",
     "content": "Zovem te na zurku kod mene sutra"
   
@@ -28,7 +25,6 @@
   
     "id": 4,
     "name":"Dejan Ubiparip",
-    "email": "dejaubiparip@gmail.com",
     "subject": "Raspored za ispit",
     "content": "Posalji mi raspored sedenja za ispit, ne mogu da udjem na svoj nalog"
   
@@ -37,7 +33,6 @@
   
     "id": 5,
     "name":"Obrad Ninkov",
-    "email": "obradninkov93@gmail.com",
     "subject": "Slava",
     "content": "Slavim slavu sledece nedelje pa dodji"
   
@@ -46,7 +41,6 @@
   
     "id": 6,
     "name":"Lazar Prodanovic",
-    "email": "lazaplaza@gmail.com",
     "subject": "1.maj",
     "content": "Jel si organizovao nesto za 1. maj? Mogli bi ici zajedno negde"
   
@@ -55,7 +49,6 @@
   
     "id": 7,
     "name":"Stefan Dacevic",
-    "email":"stefandacevic@gmail.com",
     "subject": "Strand",
     "content": "Idemo na strand?"
   
@@ -65,7 +58,6 @@
   
     "id": 8,
     "name":"Lazar Prodanovic",
-    "email": "lazaplaza@gmail.com",
     "subject": "Ispitni zadatak",
     "content": "Posalji mi pitanja koja si imao na ispitu prosle nedelje"
   
@@ -75,7 +67,6 @@
   
     "id": 9,
     "name":"Dejan Ubiparip",
-    "email": "dejaubiparip@gmail.com",
     "subject": "Projektni zadatak",
     "content": "Treba mi pomoc oko namestanja projekta"
   
@@ -85,7 +76,6 @@
   
     "id": 10,
     "name":"Stefan Bratic",
-    "email": "cobrabratic@gmail.com",
     "subject": "Oprostajna zurka",
     "content": "Idemo na pice sledece nedelje svi zajedno"
   
@@ -95,7 +85,6 @@
   
     "id": 11,
     "name":"Obrad Ninkov",
-    "email": "obradninkov93@gmail.com",
     "subject": "Poklon za rodjendan",
     "content": "Moramo da se organizujemo za Stefanov rodjendan"
   
@@ -106,7 +95,6 @@
   
     "id": 12,
     "name":"Lazar Prodanovic",
-    "email": "lazaplaza@gmail.com",
     "subject": "Dogovor za more",
     "content": "Sledece nedelje treba da se dogovorimo za more"
   
@@ -116,7 +104,6 @@
   
     "id": 13,
     "name":"Stefan Bratic",
-    "email": "cobrabratic@gmail.com",
     "subject": "Bec",
     "content": "Pozivam te da dodjes kod mene na par dana. Zvao sam i ostale"
   
